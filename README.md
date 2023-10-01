@@ -29,13 +29,6 @@ Trainee/Junior Backend Developer
 - Hexlet. Course "Python-developer". 2023 (in progress)
 - JetBrains Academy (Hyperskill). Course "Python Core". 2021
 
-## About
-Most of his professional activity was engaged in science in the field of nanotechnology and nanomaterials. In addition to experiments, he worked with analysis data, both of his own materials, and actively helped colleagues, finding dependencies, and published articles, including international ones, in the journals indexed by [Scopus and Web of Science](https://www.scopus.com/authid/detail.uri?authorId=57200101107).
-
-In addition to developing web application logic, data analysis, Data Science and ML are of great interest. I plan to expand my knowledge and skills in this area and, possibly, move to a professional level.
-
-I like to learn and try new things in my work.
-
 ## Skills
 ### Fundamental
 - Algorithms and data structures
@@ -55,3 +48,11 @@ I like to learn and try new things in my work.
   - matplotlib
 - **Tests**
   - pytest
+
+## About
+Most of his professional activity was engaged in science in the field of nanotechnology and nanomaterials. In addition to experiments, I worked with analysis data, both of his own materials, and actively helped colleagues, finding dependencies, and published articles, including international ones, in the journals indexed by [Scopus and Web of Science](https://www.scopus.com/authid/detail.uri?authorId=57200101107).
+
+In addition to developing web application logic, data analysis, Data Science and ML are of great interest. I plan to expand my knowledge and skills in this area and possibly move to a professional level.
+
+I like to learn and try new things in my work.
+
