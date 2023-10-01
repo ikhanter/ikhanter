@@ -32,6 +32,7 @@ Trainee/Junior Backend Developer
 ## Skills
 ### Fundamental
 - Algorithms and data structures
+- OOP
 - HTTP
 - SQL
 - RegExp
