@@ -11,6 +11,9 @@ Trainee/Junior Backend Developer
 
 <p align="left"> <a href="https://discord.com/users/ikhanter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ikhanter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ikhantergram" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
+## My CV
+[![CV](https://cv.hexlet.io/assets/logo-cv-ru-2ec8078d402256f56cf54a3d365bd574781e57defc6a4443c3e100f0af7b12ad.svg)](https://cv.hexlet.io/ru/resumes/3062)
+
 ## Education
 ### Tambov State Technical University
 - 2018-2022. **Postgraduate studies**
@@ -56,4 +59,3 @@ Most of his professional activity was engaged in science in the field of nanotec
 In addition to developing web application logic, data analysis, Data Science and ML are of great interest. I plan to expand my knowledge and skills in this area and possibly move to a professional level.
 
 I like to learn and try new things in my work.
-
