@@ -49,8 +49,8 @@ Trainee/Junior Backend Developer
   - PostgreSQL
 - **Additional tools (basic usage)**
   - Pandas
-  - matplotlib
-  - numpy
+  - Matplotlib
+  - NumPy
 - **Tests**
   - pytest
 
