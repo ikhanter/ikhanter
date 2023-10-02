@@ -50,6 +50,7 @@ Trainee/Junior Backend Developer
 - **Additional tools (basic usage)**
   - Pandas
   - matplotlib
+  - numpy
 - **Tests**
   - pytest
 
