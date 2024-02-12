@@ -29,7 +29,8 @@ Trainee/Junior Backend Developer
   - **Profile** - Nanotechnology in mechanical engineering
 
 ## Additional Education
-- Hexlet. Course "Python-developer". 2023 (in progress)
+- Hexlet. Course "Data-Analyst". 2023 (in progress).
+- Hexlet. Course "Python-developer". 2023.
 - JetBrains Academy (Hyperskill). Course "Python Core". 2021
 
 ## Skills
