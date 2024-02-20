@@ -48,10 +48,14 @@ Trainee/Junior Backend Developer
   - Django
 - **SQL**
   - PostgreSQL
-- **Additional tools (basic usage)**
+- **Analytics tools**
   - Pandas
+  - Seaborn
+  - Plotly
+  - Dash
   - Matplotlib
   - NumPy
+  - Apache Superset (including Preset)
 - **Tests**
   - pytest
 
