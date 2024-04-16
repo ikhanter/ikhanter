@@ -46,8 +46,15 @@ Junior Backend Developer
 - **Frameworks**
   - Flask
   - Django
-- **SQL**
+  - FastAPI
+- **DBMS**
   - PostgreSQL
+  - MongoDB
+- **Asynchronous tools (basics)**
+  - asyncio
+  - aiohttp
+  - aiofiles
+  - aiogram
 - **Analytics tools**
   - Pandas
   - Seaborn
