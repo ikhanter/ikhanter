@@ -48,10 +48,20 @@ Junior Backend Developer
   - Flask
   - Django
   - FastAPI
-- **ORM**
+- **ORM and Adapters**
   - Django ORM
   - SQLAlchemy
   - Motor
+  - psycopg2
+  - asyncpg
+  - aiosqlite
+- **SQL**
+  - JOIN (LEFT, RIGHT, INNER, FULL OUTER)
+  - GROUP BY
+  - Subquery
+  - Window Functions
+  - CTE/VIEW
+  - Ad-hoc queries
 - **Asynchronous tools (basics)**
   - asyncio
   - aiohttp
