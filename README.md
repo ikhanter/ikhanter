@@ -38,18 +38,20 @@ Junior Backend Developer
 - Algorithms and data structures
 - OOP
 - HTTP
-- SQL
+- SQL (PostgreSQL)
+- NoSQL (MongoDB)
 - RegExp
 ### Applied
 - **Programming language**
   - Python
-- **Frameworks**
+- **Web Frameworks**
   - Flask
   - Django
   - FastAPI
-- **DBMS**
-  - PostgreSQL
-  - MongoDB
+- **ORM**
+  - Django ORM
+  - SQLAlchemy
+  - Motor
 - **Asynchronous tools (basics)**
   - asyncio
   - aiohttp
