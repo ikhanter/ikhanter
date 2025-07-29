@@ -85,6 +85,10 @@ Middle- Backend Developer
   - Matplotlib
   - NumPy
   - Apache Superset (including Preset)
+- **Monitoring**
+  - Prometheus
+  - Grafana
+  - ELK (Elasticsearch, Logstash, Kibana)
 - **Task Queues/Brokers/Messaging**
   - Celery
   - Arq
