@@ -94,6 +94,9 @@ Middle- Backend Developer
 - **Tests**
   - pytest
   - unittest
+- **Etc**
+  - Pydantic
+  - Geopandas
 
 ## About
 Most of his professional activity was engaged in science in the field of nanotechnology and nanomaterials. In addition to experiments, I worked with analysis data, both of his own materials, and actively helped colleagues, finding dependencies, and published articles, including international ones, in the journals indexed by [Scopus and Web of Science](https://www.scopus.com/authid/detail.uri?authorId=57200101107).
