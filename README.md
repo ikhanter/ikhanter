@@ -38,6 +38,7 @@ Middle- Backend Developer
 - Algorithms and data structures
 - OOP
 - HTTP
+- Websocket (socket.io)
 - SQL (PostgreSQL)
 - NoSQL (MongoDB)
 - RegExp
