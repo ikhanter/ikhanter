@@ -69,7 +69,9 @@ Middle- Backend Developer
   - asyncio
   - aiohttp
   - aiofiles
-  - aiogram
+- **Telegram**
+  - Aiogram
+  - Telethon
 - **Analytics tools**
   - Pandas
   - Seaborn
