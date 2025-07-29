@@ -72,6 +72,10 @@ Middle- Backend Developer
 - **Telegram**
   - Aiogram
   - Telethon
+- **AI (API tokenized work)**
+  - ChatGPT
+  - DeepSeek
+  - Runpod.ai (Stable Diffusion pipeline deployment)
 - **Analytics tools**
   - Pandas
   - Seaborn
