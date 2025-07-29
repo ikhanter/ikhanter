@@ -1,7 +1,7 @@
 Yulian Khan
 ===================================================================================================================================
 
-Junior Backend Developer
+Middle- Backend Developer
 --------------------------------
 
 * 🌍  Tambov, Russia (open to relocation)
