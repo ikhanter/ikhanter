@@ -29,9 +29,9 @@ Junior Backend Developer
   - **Profile** - Nanotechnology in mechanical engineering
 
 ## Additional Education
-- Hexlet. Course "Data-Analyst". 2023.
-- Hexlet. Course "Python-developer". 2023.
-- JetBrains Academy (Hyperskill). Course "Python Core". 2021
+- [Hexlet. Course "Data-Analyst". 2023.](https://drive.google.com/file/d/1aMtdS4XlN76qhVj1gg7GYBiAktRL3Shc/view?usp=sharing)
+- [Hexlet. Course "Python-developer". 2023.](https://drive.google.com/file/d/1IavhKYpEzmgJBGbTMAYZZTbDk_LRNVJd/view?usp=sharing)
+
 
 ## Skills
 ### Fundamental
