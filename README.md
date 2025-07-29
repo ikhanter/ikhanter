@@ -41,6 +41,8 @@ Junior Backend Developer
 - SQL (PostgreSQL)
 - NoSQL (MongoDB)
 - RegExp
+- Soft Skills
+- Stress Resistance (worked in outsource company with huge amount of projects 🥺)
 ### Applied
 - **Programming language**
   - Python
