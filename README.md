@@ -48,6 +48,7 @@ Junior Backend Developer
   - Flask
   - Django
   - FastAPI
+  - Falcon
 - **ORM and Adapters**
   - Django ORM
   - SQLAlchemy
@@ -62,7 +63,7 @@ Junior Backend Developer
   - Window Functions
   - CTE/VIEW
   - Ad-hoc queries
-- **Asynchronous tools (basics)**
+- **Asynchronous tools**
   - asyncio
   - aiohttp
   - aiofiles
@@ -75,6 +76,12 @@ Junior Backend Developer
   - Matplotlib
   - NumPy
   - Apache Superset (including Preset)
+- **Task Queues/Brokers/Messaging**
+  - Celery
+  - Arq
+  - RabbitMQ
+- **Cache DB**
+  - Redis
 - **Tests**
   - pytest
   - unittest
