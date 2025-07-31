@@ -89,6 +89,10 @@ Middle- Backend Developer
   - Prometheus
   - Grafana
   - ELK (Elasticsearch, Logstash, Kibana)
+- **Parsing/Browsing**
+  - BeautifulSoup4
+  - Selenium
+  - Playwright
 - **Task Queues/Brokers/Messaging**
   - Celery
   - Arq
